@@ -44,11 +44,11 @@ All features are continuous (float64) with no missing values.
 3. ANN Model Architecture
 
 Input Layer (4 neurons)
-        ↓
+↓
 Hidden Layer 1 (6 neurons, ReLU)
-        ↓
+↓
 Hidden Layer 2 (6 neurons, ReLU)
-        ↓
+↓
 Output Layer (1 neuron)
 
 4. Training Setup
@@ -61,7 +61,7 @@ Output Layer (1 neuron)
 
     * Best model saved using validation loss
 
-# Evaluation
+5. Evaluation
 
     * Training & Testing MSE
 
