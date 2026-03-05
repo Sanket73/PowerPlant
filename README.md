@@ -42,14 +42,8 @@ All features are continuous (float64) with no missing values.
     * Created TensorDataset and DataLoader
 
 3. ANN Model Architecture
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/fb4aa3f1-3db4-4eb4-8fde-9e4eeb72a054" />
 
-Input Layer (4 neurons)
-↓
-Hidden Layer 1 (6 neurons, ReLU)
-↓
-Hidden Layer 2 (6 neurons, ReLU)
-↓
-Output Layer (1 neuron)
 
 4. Training Setup
 
@@ -79,7 +73,7 @@ Output Layer (1 neuron)
 
 * Predictions closely align with actual energy outputs
 
-* This demonstrates effective learning of nonlinear dependencies between environmental conditions and power    generation.
+* This demonstrates effective learning of nonlinear dependencies between environmental conditions and power generation.
 
 # Key Skills Demonstrated
 
