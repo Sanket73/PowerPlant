@@ -88,3 +88,14 @@ All features are continuous (float64) with no missing values.
 * Overfitting Monitoring
 
 * Practical ML Pipeline Implementation
+
+# Technologies Used
+Languages ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+
+Libraries ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+Machine Learning ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+Visualization ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+
+Environment ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
