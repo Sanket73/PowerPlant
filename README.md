@@ -100,6 +100,7 @@ Visualization ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 
 Environment ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
+# Project Architecture
 ![Sales and Revenue Prediction Architecture](https://raw.githubusercontent.com/Sanket73/PowerPlant/main/image.png)
 
 # Conclusion
