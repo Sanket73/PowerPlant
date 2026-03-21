@@ -100,6 +100,8 @@ Visualization ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 
 Environment ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
+![Sales and Revenue Prediction Architecture](https://raw.githubusercontent.com/Sanket73/PowerPlant/main/image.png)
+
 # Conclusion
 This project demonstrates how an **Artificial Neural Network (ANN)** can be used to predict power plant energy output using environmental factors such as temperature, vacuum, pressure, and humidity. The model was implemented using **PyTorch** with proper preprocessing, feature scaling, and training. The results show that the model can effectively capture the relationship between input variables and power output, producing predictions close to actual values. This highlights the potential of deep learning for solving real-world energy prediction and regression problems.
 
