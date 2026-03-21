@@ -42,14 +42,8 @@ All features are continuous (float64) with no missing values.
     * Created TensorDataset and DataLoader
 
 3. ANN Model Architecture
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/fb4aa3f1-3db4-4eb4-8fde-9e4eeb72a054" />
 
-Input Layer (4 neurons)
-↓
-Hidden Layer 1 (6 neurons, ReLU)
-↓
-Hidden Layer 2 (6 neurons, ReLU)
-↓
-Output Layer (1 neuron)
 
 4. Training Setup
 
@@ -79,7 +73,7 @@ Output Layer (1 neuron)
 
 * Predictions closely align with actual energy outputs
 
-* This demonstrates effective learning of nonlinear dependencies between environmental conditions and power    generation.
+* This demonstrates effective learning of nonlinear dependencies between environmental conditions and power generation.
 
 # Key Skills Demonstrated
 
@@ -94,3 +88,20 @@ Output Layer (1 neuron)
 * Overfitting Monitoring
 
 * Practical ML Pipeline Implementation
+
+# Technologies Used
+Languages ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+
+Libraries ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+Machine Learning ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+Visualization ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+
+Environment ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+# Conclusion
+This project demonstrates how an **Artificial Neural Network (ANN)** can be used to predict power plant energy output using environmental factors such as temperature, vacuum, pressure, and humidity. The model was implemented using **PyTorch** with proper preprocessing, feature scaling, and training. The results show that the model can effectively capture the relationship between input variables and power output, producing predictions close to actual values. This highlights the potential of deep learning for solving real-world energy prediction and regression problems.
+
+# Future Improvements
+The model can be improved by performing **hyperparameter tuning**, adding **regularization techniques like dropout**, and testing deeper neural network architectures. Additionally, comparing performance with traditional machine learning models and deploying the model using **Flask, FastAPI, or Streamlit** could enhance its practical usability.
